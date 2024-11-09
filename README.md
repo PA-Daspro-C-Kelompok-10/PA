@@ -12,9 +12,9 @@ Terdapat 5 library yang kami gunakan di program ini yaitu:
 5. json untuk mengakses dan mengupdate json.
 
 ## Nama Anggota Kelompok
-Reswara Ganendra Rashi Dewa (2409116100)
-Ahmad Qomarul Arifin (2409116114)
-Muhammad Irpan (2409116119)
+1. Reswara Ganendra Rashi Dewa (2409116100)
+2. Ahmad Qomarul Arifin (2409116114)
+3. Muhammad Irpan (2409116119)
 
 ## Fitur
 ### User
