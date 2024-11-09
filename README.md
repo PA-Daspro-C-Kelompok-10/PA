@@ -8,7 +8,7 @@ Terdapat 5 library yang kami gunakan di program ini yaitu:
 1. PrettyTable untuk membuat tabel secara otomatis dan rapi,
 2. *os* disini kami gunakan untuk membersihkan tampilan di terminal,
 3. pwinput untuk membuat password tidak langsung terlihat,
-4. time disini kami gunakan untuk format penambahan jadwal, mengedit jadwal dan memunculkan tanggal pemesanan di bukti pembelian tiket,
+4. time disini kami gunakan untuk loading,
 5. json untuk mengakses dan mengupdate json.
 
 ## Fitur
