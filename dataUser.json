@@ -1,0 +1,17 @@
+{
+    "Nama": [
+        "dewa",
+        "arul",
+        "irpan"
+    ],
+    "Password": [
+        "dewauser",
+        "aruluser",
+        "irpanuser"
+    ],
+    "Saldo": [
+        0,
+        0,
+        0
+    ]
+}
